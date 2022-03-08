@@ -1,17 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 , ESPN 2
+#EXTINF:-1 , ESPN 1 HD
 
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 
-#EXTINF:-1 , FOX SPORTS
+#EXTINF:-1 , ESPN 2 HD
+
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
+#EXTINF:-1 , FOX SPORTS HD
 
 https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
-#EXTINF:-1 , TNT SPORTS
+#EXTINF:-1 , TNT SPORTS HD
 
 https://edge2-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
-#EXTINF:-1 , TYC SPORTS
+#EXTINF:-1 , TYC SPORTS HD
 
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
